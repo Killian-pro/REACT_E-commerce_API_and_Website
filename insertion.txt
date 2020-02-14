@@ -1,0 +1,47 @@
+/*                      U S E R                                                */
+
+{
+	"Email":"admin@admin",
+	"Prenom":"admin",
+	"Nom":"admin",
+	"Password":"5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"
+	
+}
+
+{
+	"Email":"b@b",
+	"Prenom":"bot",
+	"Nom":"bot",
+	"Password":"5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8"
+	
+}
+
+/*                     P R O D U C T                                         */
+
+{
+	"prix":10,
+	"nom":"product1"
+	
+}
+
+
+{
+	"prix":20,
+	"nom":"product2"
+	
+}
+
+
+{
+	"prix":30,
+	"nom":"product3"
+	
+}
+
+
+{
+	"prix":40,
+	"nom":"product4"
+	
+}
+

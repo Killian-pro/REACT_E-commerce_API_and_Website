@@ -1,0 +1,64 @@
+body{
+  background-color: black;
+  text-align: center;
+
+}
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color:black;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  border-color:red;
+  border: width 200px;
+  border-radius: 50em;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+
+nav{
+  position: absolute;
+}
+
+.bblack{
+  background: black;
+}
+.bwhite{
+  color:white;
+}
+.bmid{
+  position: fixed;
+width: 500px;
+height: 200px;
+top: 50%;
+left: 50%;
+margin-top: -100px; /* Negative half of height. */
+margin-left: -250px; /* Negative half of width. */
+}
+.backwhite
+{
+  background: white;
+  padding-top: 1%;
+
+}
+.bred
+{
+  top: 25%;
+  color:red;
+}
+.leeft{
+  margin-right: 5%;
+}
